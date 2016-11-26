@@ -1,7 +1,7 @@
 {
   "name": "blear.polyfills.date",
-  "version": "1.0.2",
-  "description": "Date polyfill to IE8",
+  "version": "1.0.3",
+  "description": "Date polyfill to IE9",
   "scripts": {},
   "preferGlobal": false,
   "bin": {},
